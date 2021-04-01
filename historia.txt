@@ -11,3 +11,5 @@ Tiene 19 años
 Le gusta muchos los VideoJuegos
 
 Mañana nos enfocaremos en su vida laboral
+
+Probando Git y GitHub en mi otra terminal, que no es Git Bash
